@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Web_Api.Models
+{
+    public partial class Indicator
+    {
+        public ulong Id { get; set; }
+        public int Branch { get; set; }
+        public int Department { get; set; }
+        public int Designation { get; set; }
+        public string? Rating { get; set; }
+        public int CustomerExperience { get; set; }
+        public int Marketing { get; set; }
+        public int Administration { get; set; }
+        public int Professionalism { get; set; }
+        public int Integrity { get; set; }
+        public int Attendance { get; set; }
+        public int CreatedUser { get; set; }
+        public int CreatedBy { get; set; }
+        public DateTime? CreatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
+    }
+}

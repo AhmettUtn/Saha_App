@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Caner\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.4.15\android\.cxx\Debug\u183k135\x86'
+[1/1] Linking CXX shared library C:\Users\Caner\Desktop\Saha_App\Mobile\build\rive_common\intermediates\cxx\Debug\u183k135\obj\x86\librive_text.so

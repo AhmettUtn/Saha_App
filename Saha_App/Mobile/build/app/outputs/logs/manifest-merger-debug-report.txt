@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\main\AndroidManifest.xml:2:5-33:19
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+MERGED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\715b51c78bd177134784290d2e6d6b1f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\715b51c78bd177134784290d2e6d6b1f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+MERGED from [:rive_common] C:\Users\Caner\Desktop\Saha_App\Mobile\build\rive_common\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Caner\.gradle\caches\transforms-3\b023200d147baa2b896275a325c5bc8d\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\40baefad60a58a24264ed9d4a4e287f0\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\Caner\.gradle\caches\transforms-3\9f3da3435c28a57aef5dba34188a2863\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\27dd85bc20775b04c9774f9621c9b2ba\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\59cd693e757c6b0cfdb7113f66a858aa\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\bea02374f20b18118808bea935c4ff58\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\5553a6cca56b4673e3021661df8fbe48\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\a7c643cbf2fc677af4e6e0b0f16438d6\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\331503fc339a40c58ae7036314964bb7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\efbf087e52b941cc392bda1d0fe6d844\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\ceec4f6a2ffea9740cc4b0ab64ac84bd\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\c33907cf0d2f4e358b8dc9b1e4bbbd37\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\fac58fee2a08e2aa4a1b55d79d8e7890\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Caner\.gradle\caches\transforms-3\c0556144ce6730bfc70fc02aae2a0e01\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Caner\.gradle\caches\transforms-3\17eb2db3ca55803e93d23d822f6c81f6\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\98c6a457b5576dab4751a5155551a284\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Caner\.gradle\caches\transforms-3\8ff041e5884e7fe68f6a0acce5d146ed\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\715b51c78bd177134784290d2e6d6b1f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\514af63d39c99be94cbd23faf1175c4f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\91609ac50d0713afffce98df55691341\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\Caner\.gradle\caches\transforms-3\00743880ee9db78afad8274dc264c795\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+MERGED from [:rive_common] C:\Users\Caner\Desktop\Saha_App\Mobile\build\rive_common\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:rive_common] C:\Users\Caner\Desktop\Saha_App\Mobile\build\rive_common\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Caner\.gradle\caches\transforms-3\b023200d147baa2b896275a325c5bc8d\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Caner\.gradle\caches\transforms-3\b023200d147baa2b896275a325c5bc8d\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\40baefad60a58a24264ed9d4a4e287f0\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\40baefad60a58a24264ed9d4a4e287f0\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\Caner\.gradle\caches\transforms-3\9f3da3435c28a57aef5dba34188a2863\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\Caner\.gradle\caches\transforms-3\9f3da3435c28a57aef5dba34188a2863\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\27dd85bc20775b04c9774f9621c9b2ba\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\27dd85bc20775b04c9774f9621c9b2ba\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\59cd693e757c6b0cfdb7113f66a858aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\59cd693e757c6b0cfdb7113f66a858aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\bea02374f20b18118808bea935c4ff58\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\bea02374f20b18118808bea935c4ff58\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\5553a6cca56b4673e3021661df8fbe48\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\5553a6cca56b4673e3021661df8fbe48\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\a7c643cbf2fc677af4e6e0b0f16438d6\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\a7c643cbf2fc677af4e6e0b0f16438d6\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\331503fc339a40c58ae7036314964bb7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\331503fc339a40c58ae7036314964bb7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\efbf087e52b941cc392bda1d0fe6d844\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\efbf087e52b941cc392bda1d0fe6d844\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\ceec4f6a2ffea9740cc4b0ab64ac84bd\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\ceec4f6a2ffea9740cc4b0ab64ac84bd\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\c33907cf0d2f4e358b8dc9b1e4bbbd37\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\c33907cf0d2f4e358b8dc9b1e4bbbd37\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\fac58fee2a08e2aa4a1b55d79d8e7890\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\fac58fee2a08e2aa4a1b55d79d8e7890\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Caner\.gradle\caches\transforms-3\c0556144ce6730bfc70fc02aae2a0e01\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Caner\.gradle\caches\transforms-3\c0556144ce6730bfc70fc02aae2a0e01\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Caner\.gradle\caches\transforms-3\17eb2db3ca55803e93d23d822f6c81f6\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Caner\.gradle\caches\transforms-3\17eb2db3ca55803e93d23d822f6c81f6\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\98c6a457b5576dab4751a5155551a284\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\98c6a457b5576dab4751a5155551a284\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Caner\.gradle\caches\transforms-3\8ff041e5884e7fe68f6a0acce5d146ed\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Caner\.gradle\caches\transforms-3\8ff041e5884e7fe68f6a0acce5d146ed\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\715b51c78bd177134784290d2e6d6b1f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\715b51c78bd177134784290d2e6d6b1f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\514af63d39c99be94cbd23faf1175c4f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\514af63d39c99be94cbd23faf1175c4f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\91609ac50d0713afffce98df55691341\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\Caner\.gradle\caches\transforms-3\91609ac50d0713afffce98df55691341\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\Caner\.gradle\caches\transforms-3\00743880ee9db78afad8274dc264c795\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\Caner\.gradle\caches\transforms-3\00743880ee9db78afad8274dc264c795\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Caner\Desktop\Saha_App\Mobile\android\app\src\debug\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Caner\.gradle\caches\transforms-3\5f78b640707d42f38e70342fa1136c27\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.flutter_upgrde_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.flutter_upgrde_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Caner\.gradle\caches\transforms-3\f0ee947ce563783c737051c6d7310fdf\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Caner\.gradle\caches\transforms-3\ffb9ee986e5998b94c495029d756daa8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Caner\.gradle\caches\transforms-3\17c55a80951927a8ab4ce0d399193f98\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Caner\.gradle\caches\transforms-3\47fae05fa933bdbc628fc729985416e3\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

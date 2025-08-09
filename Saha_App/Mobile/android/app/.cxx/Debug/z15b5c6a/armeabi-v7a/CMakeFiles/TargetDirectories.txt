@@ -1,0 +1,2 @@
+C:/Users/Caner/Desktop/Saha_App/Mobile/android/app/.cxx/Debug/z15b5c6a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Caner/Desktop/Saha_App/Mobile/android/app/.cxx/Debug/z15b5c6a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

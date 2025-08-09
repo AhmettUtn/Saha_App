@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Web_Api.Models
+{
+    public partial class EmailTemplateLang
+    {
+        public ulong Id { get; set; }
+        public int ParentId { get; set; }
+        public string Lang { get; set; } = null!;
+        public string Subject { get; set; } = null!;
+        public string Content { get; set; } = null!;
+        public DateTime? CreatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
+    }
+}
